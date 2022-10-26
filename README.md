@@ -1,7 +1,7 @@
 # moais 미니프로젝트 
 
 ## 사용기술 
-### -> Spring boot, JPA, H2 Database, Swagger2 (http://localhost:8080/swagger-ui/index.html#), JDK 1.8, JWT 
+### -> Spring boot, JPA, H2 Database, Swagger3 (http://localhost:8080/swagger-ui/index.html#), JDK 1.8, JWT 
 
 ## 추가고려 사항 
 ### 1. 멀티모듈 구성으로 프로젝트 확장시 용이
