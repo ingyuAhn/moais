@@ -1,0 +1,18 @@
+com/assignment/core/domain/common/BaseEntity.java
+ com.assignment.core.domain.common.BaseEntity
+com/assignment/core/repository/MemberRepository.java
+ com.assignment.core.repository.MemberRepository
+com/assignment/core/repository/TodoRepository.java
+ com.assignment.core.repository.TodoRepository
+com/assignment/core/domain/entity/value/MemberStatus.java
+ com.assignment.core.domain.entity.value.MemberStatus
+com/assignment/core/domain/entity/Todo.java
+ com.assignment.core.domain.entity.Todo
+ com.assignment.core.domain.entity.Todo$TodoBuilder
+com/assignment/core/domain/entity/Member.java
+ com.assignment.core.domain.entity.Member
+ com.assignment.core.domain.entity.Member$MemberBuilder
+com/assignment/core/domain/entity/value/TodoStatus.java
+ com.assignment.core.domain.entity.value.TodoStatus
+com/assignment/core/CoreApplication.java
+ com.assignment.core.CoreApplication
